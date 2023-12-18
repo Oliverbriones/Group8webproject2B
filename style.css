@@ -1,0 +1,57 @@
+body {
+    background-color: #311432;
+    font-family:Georgia:'Courier New', Courier, monospace;
+    background-repeat: no-repeat;
+}
+
+header {
+    color: ;
+    text-align: center;
+    padding: 50px;
+    font-size: 200%;
+    background-image: url('https://img.freepik.com/free-vector/banner-with-color-powder-explosions-dust-splashes_107791-10877.jpg?w=826&t=st=1702744424~exp=1702745024~hmac=062532791e6839ab9e61eae3c5232e7284f109df20b0d2713c5d23e4f45f7eee');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+nav {
+   
+    overflow: hidden;
+    padding-left: 50px;
+    background-color: #6F2DA8;
+}
+
+nav a{
+    float: right;
+    padding: 5px;
+    font-size:150%;
+    text-decoration:dotted;
+    color: skyblue;
+}
+
+a:hover {
+    color: wheat;
+    font-size: 30;
+    padding: 14px 16[px];
+}
+
+p {
+    text-align: center;
+    color: skyblue;
+    font-size: 22;
+}
+
+h1 {
+    color: 	skyblue;
+}
+
+
+    footer {
+        background-color: rebeccapurple;
+        padding: 10px;
+        text-align: center;
+        color: skyblue;
+      }
+      
+
+
